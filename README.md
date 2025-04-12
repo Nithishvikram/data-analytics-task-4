@@ -1,1 +1,3 @@
 # data-analytics-task-4
+
+A Power BI dashboard was created for BigMart sales data, showcasing key performance indicators like total sales, profit (assumed at 20% of sales), and growth over time using outlet establishment year. Interactive slicers were added for item type, outlet type, size, and location to enable dynamic filtering. Time-series analysis was performed to visualize year-wise sales trends. Summary cards were used to display total sales, profit, average item MRP, and counts of unique items and outlets. A consistent color theme was applied for a clean and professional look. Additionally, a navigation menu was implemented using buttons and bookmarks to allow smooth switching between different report pages.
